@@ -31,7 +31,7 @@
 </div>
 
 ## Ferramentas utilizadas
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## Acesso ao projeto
 
