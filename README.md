@@ -19,8 +19,8 @@
 <p align="justify">
  Projeto criado para eu poder me desafiar com tecnologias aleatórias em um novo projeto CRUD de Java.
  
- Após clicar no botão "Sortear!" será gerado uma sugestão de projeto para criar.
- Estarei adicionando novas sugestões em breve.
+ <br>Após clicar no botão "Sortear!" será gerado uma sugestão de projeto para criar.
+ <br>Estarei adicionando novas sugestões em breve.
 
 ## Aplicação
 
