@@ -21,6 +21,7 @@ body {
   flex-direction: column;
   max-width: 500px;
   margin: 0 auto;
+  min-height: 400px;
   box-shadow: 0 0 20px rgb(238, 43, 189);
   height: 50%;
   justify-content: center;
