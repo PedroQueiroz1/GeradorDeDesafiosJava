@@ -142,8 +142,11 @@ body {
 
 .button-cta:hover {
     background: #b200d9;
+}
+
+.button-cta:active {
     transform: scale(0.95);
-  }
+}
 
 .sorteio-container, h1{
     text-align: center;
