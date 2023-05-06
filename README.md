@@ -13,6 +13,7 @@
 - [Aplicação](#aplicação)
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 - [Acesso ao projeto](#acesso-ao-projeto)
+- [Regras do desafio](#regras-do-desafio)
 - [Experimente o projeto](#Experimente-o-projeto)
 
 ## Descrição do projeto 
@@ -37,6 +38,13 @@
 ## Acesso ao projeto
 
 Você pode [acessar o código fonte do projeto](https://github.com/PedroQueiroz1/GeradorDeDesafiosJava) ou [baixá-lo](https://drive.google.com/file/d/1QRb6kfnzRZaNiwXL1Vq8LwKRTe_ba3VQ/view?usp=share_link).
+
+## Regras do desafio
+É obrigatório, em qualquer desafio proposto, tentar realizar a utilização das seguintes tecnologias:
+- Prometheus
+- Grafana
+- Docker
+- OpenAPI (Swagger)
 
 ## Experimente o projeto
 Acesse o projeto hospedado no Netlify clicando [aqui](https://geradordedesafio-java.netlify.app/)!
