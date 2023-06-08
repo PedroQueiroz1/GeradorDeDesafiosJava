@@ -45,6 +45,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/PedroQueiroz1
 - Grafana
 - Docker
 - OpenAPI (Swagger)
+- JasperSoft (criação de relatório)
 
 ## Experimente o projeto
 Acesse o projeto hospedado no Netlify clicando [aqui](https://geradordedesafio-java.netlify.app/)!
